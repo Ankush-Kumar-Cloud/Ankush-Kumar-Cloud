@@ -1,5 +1,37 @@
 # 💫 About Me:
-## About Me :<br><br>🔭 I’m currently working on **Calculator-Project** and a few other Python utilities.  <br>👯 I’m looking to collaborate on **open-source Python projects or web development projects**.  <br>🤝 I’m looking for help with **improving my front-end development skills and GUI design**.  <br>🌱 I’m currently learning **React.js, advanced Python, and GitHub Actions**.  <br>💬 Ask me about **Python, JavaScript, Git, or building interactive projects**.  <br>⚡ Fun fact: **I love solving algorithmic challenges and creating small productivity tools.**<br>
+## 👋 Hi there!
+
+🔭 I’m currently working on:
+
+A Calculator Project and several small Python utilities.
+
+👯 I’m looking to collaborate on:
+
+Open-source Python projects
+
+Web development projects
+
+🤝 I’m looking for help with:
+
+Improving front-end development skills
+
+GUI design
+
+🌱 Currently learning:
+
+React.js
+
+Advanced Python
+
+GitHub Actions
+
+💬 Ask me about:
+
+Python, JavaScript, Git, or building interactive projects
+
+⚡ Fun fact:
+
+I love solving algorithmic challenges and creating small productivity tools.**<br>
 
 
 ## 🌐 Socials:
